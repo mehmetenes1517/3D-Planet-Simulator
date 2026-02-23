@@ -10,7 +10,7 @@
     cmake ..
     make
 
-You can start your game in <code>Bin/</code> folder after executing these commands
+You can start the project in <code>Bin/</code> folder after executing these commands
 
   - I Tried a new structure for OpenGL projects
   
